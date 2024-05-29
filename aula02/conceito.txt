@@ -1,0 +1,10 @@
+O que é o HTML?
+HTML,significa: Hyper Texto Language de marcação de hypertexto
+Os comandos html são chamados de teg, as tegs são palavras chaves que ficam cercadas pelos simbolos > e <, ex: <hr>.. </body>
+As teg são divididas em duas: teg simples e composta. A teg simples não precisa ser encerrada, ex: <hr>... <img>... <meta>...
+As tegs compostam precisam ser encerradas, ex: <body> </body>... <title> </title>...
+As tegs tanto simples como compostam possuem atributos (propriedade), ex: <img src="foto.JPG" alt="foto do cliente">
+<body background="red"> ...</body>
+Para transformar código em objeto, imagem, cores o navegador usa uma ferramenta chamada motor web, ele utiliza o processo de renderização, que é tranformar código em objetos.
+Todo o arquivo html devem ser salvo com a extensão .html
+Para testar um arquivo html, nós o abrimos em um navegador Web, chrome, Opera, edge, Firefox, Safari, Vandex, Brawe, Tor...
