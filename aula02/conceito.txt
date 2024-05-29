@@ -8,3 +8,11 @@ As tegs tanto simples como compostam possuem atributos (propriedade), ex: <img s
 Para transformar código em objeto, imagem, cores o navegador usa uma ferramenta chamada motor web, ele utiliza o processo de renderização, que é tranformar código em objetos.
 Todo o arquivo html devem ser salvo com a extensão .html
 Para testar um arquivo html, nós o abrimos em um navegador Web, chrome, Opera, edge, Firefox, Safari, Vandex, Brawe, Tor...
+CSS, o que é: é cascade style sheet(folha de estilo m cascata).
+O cSS é utilizado para fazer formatação em página html.
+você pode aplicar o css de três formas: Arquivo externos de css.
+Embutir o css na tag head da página html.
+Aplicar diretamente na tag html desejada.
+Há também três elementos de aplicação: ID - elemento identificador, usamos hastag #
+Classe-classe, usamos ponto .
+tag-tag html
